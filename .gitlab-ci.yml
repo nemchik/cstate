@@ -7,7 +7,7 @@
 # https://gitlab.com/pages/hugo/container_registry
 #
 # cState uses Hugo Extended.
-image: registry.gitlab.com/pages/hugo/hugo_extended:0.120.4
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.121.1
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
